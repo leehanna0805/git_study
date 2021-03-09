@@ -1,0 +1,44 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 43987
+
+[20:39:56] Extension host agent started.
+[20:39:57] [127.0.0.1][1703c235][ManagementConnection] New connection established.
+[20:39:58] [127.0.0.1][6517891c][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+[20:39:58] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/.vscode'
+mesg: ttyname failed: Inappropriate ioctl for device
+[20:39:58] [127.0.0.1][6517891c][ExtensionHostConnection] <1840> Launched Extension Host Process.
+[20:48:30] [127.0.0.1][1703c235][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[20:48:31] [127.0.0.1][6517891c][ExtensionHostConnection] <1840> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[20:48:31] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[20:48:56] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[20:48:56] Cancelling previous shutdown timeout
+[20:48:56] [127.0.0.1][16dfcd06][ManagementConnection] New connection established.
+[20:48:56] [127.0.0.1][85ca54ed][ExtensionHostConnection] New connection established.
+[20:48:56] [127.0.0.1][85ca54ed][ExtensionHostConnection] <3052> Launched Extension Host Process.
+[20:48:56] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/moviesajo/.vscode'
+New EH opened, aborting shutdown
+[20:53:56] New EH opened, aborting shutdown
+[23:35:26] [127.0.0.1][16dfcd06][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+Error: Unexpected SIGPIPE
+    at process.<anonymous> (/root/.vscode-server/bin/622cb03f7e070a9670c94bae1a45d78d7181fbd4/out/bootstrap.js:1:370)
+    at process.emit (events.js:315:20)
+[23:48:30] The reconnection grace time of 3h has expired, so the terminal process with pid 1870 will be shutdown.
+[02:34:58] [127.0.0.1][85ca54ed][ExtensionHostConnection] <3052> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[02:34:58] Last EH closed, waiting before shutting down
+[02:35:26] [127.0.0.1][16dfcd06][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+Last EH closed, shutting down
+[02:39:58] Last EH closed, shutting down

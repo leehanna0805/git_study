@@ -1,0 +1,31 @@
+[2021-03-07 15:57:37.115] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-03-07 15:57:37.115] [remoteagent] [info] Extension host agent started.
+[2021-03-07 15:57:37.171] [remoteagent] [info] [127.0.0.1][7bf1f284][ManagementConnection] New connection established.
+[2021-03-07 15:57:37.210] [remoteagent] [info] [127.0.0.1][2f82fcb3][ExtensionHostConnection] New connection established.
+[2021-03-07 15:57:37.413] [remoteagent] [info] [127.0.0.1][2f82fcb3][ExtensionHostConnection] <2118> Launched Extension Host Process.
+[2021-03-07 16:21:45.941] [remoteagent] [info] [127.0.0.1][7bf1f284][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-07 16:21:48.587] [remoteagent] [info] [127.0.0.1][2f82fcb3][ExtensionHostConnection] <2118> Extension Host Process exited with code: 0, signal: null.
+[2021-03-07 16:21:48.587] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-07 16:22:00.813] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2021-03-07 16:22:00.813] [remoteagent] [info] Cancelling previous shutdown timeout
+[2021-03-07 16:22:01.200] [remoteagent] [info] [127.0.0.1][05b8ef7a][ExtensionHostConnection] New connection established.
+[2021-03-07 16:22:01.208] [remoteagent] [info] [127.0.0.1][809c4895][ManagementConnection] New connection established.
+[2021-03-07 16:22:01.570] [remoteagent] [info] [127.0.0.1][05b8ef7a][ExtensionHostConnection] <9440> Launched Extension Host Process.
+[2021-03-07 16:22:01.570] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/root/.vscode'
+[2021-03-07 16:22:32.651] [remoteagent] [info] [127.0.0.1][05b8ef7a][ExtensionHostConnection] The client has reconnected.
+[2021-03-07 16:27:00.813] [remoteagent] [info] New EH opened, aborting shutdown
+[2021-03-07 16:31:12.715] [remoteagent] [info] [127.0.0.1][809c4895][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2021-03-07 19:21:46.437] [remoteagent] [info] The reconnection grace time of 3h has expired, so the terminal process with pid 2148 will be shutdown.
+[2021-03-07 19:30:43.738] [remoteagent] [info] [127.0.0.1][05b8ef7a][ExtensionHostConnection] <9440> Extension Host Process exited with code: 0, signal: null.
+[2021-03-07 19:30:43.738] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-07 19:31:12.716] [remoteagent] [info] [127.0.0.1][809c4895][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2021-03-07 19:35:43.739] [remoteagent] [info] Last EH closed, shutting down

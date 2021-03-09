@@ -1,0 +1,40 @@
+[2021-03-10 03:29:31.968] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2021-03-10 03:29:31.968] [remoteagent] [info] Extension host agent started.
+[2021-03-10 03:29:32.629] [remoteagent] [info] [127.0.0.1][817d5db9][ManagementConnection] New connection established.
+[2021-03-10 03:29:32.645] [remoteagent] [info] [127.0.0.1][decd773e][ExtensionHostConnection] New connection established.
+[2021-03-10 03:29:33.734] [remoteagent] [info] [127.0.0.1][decd773e][ExtensionHostConnection] <28425> Launched Extension Host Process.
+[2021-03-10 03:29:36.128] [remoteagent] [info] Installing extension: ms-python.python
+[2021-03-10 03:29:41.190] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2021-03-10 03:29:44.321] [remoteagent] [info] Extracted extension to /root/.vscode-server/extensions/.ms-python.python-2021.2.633441544: ms-python.python
+[2021-03-10 03:29:44.322] [remoteagent] [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2021.2.633441544
+[2021-03-10 03:29:44.326] [remoteagent] [info] Installation completed. ms-python.python
+[2021-03-10 03:29:46.877] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2021-03-10 03:29:48.409] [remoteagent] [info] [127.0.0.1][817d5db9][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-10 03:31:30.355] [remoteagent] [info] [127.0.0.1][1a44f1cd][ManagementConnection] New connection established.
+[2021-03-10 03:31:30.381] [remoteagent] [info] [127.0.0.1][4b9f8255][ExtensionHostConnection] New connection established.
+[2021-03-10 03:31:30.389] [remoteagent] [info] [127.0.0.1][4b9f8255][ExtensionHostConnection] <28654> Launched Extension Host Process.
+[2021-03-10 03:31:44.139] [remoteagent] [info] [127.0.0.1][1a44f1cd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-10 03:31:45.153] [remoteagent] [info] [127.0.0.1][4b9f8255][ExtensionHostConnection] <28654> Extension Host Process exited with code: 0, signal: null.
+[2021-03-10 03:31:48.090] [remoteagent] [info] [127.0.0.1][9ec7ec86][ManagementConnection] New connection established.
+[2021-03-10 03:31:48.108] [remoteagent] [info] [127.0.0.1][6628ff6b][ExtensionHostConnection] New connection established.
+[2021-03-10 03:31:48.111] [remoteagent] [info] [127.0.0.1][6628ff6b][ExtensionHostConnection] <28818> Launched Extension Host Process.
+[2021-03-10 03:35:14.393] [remoteagent] [info] [127.0.0.1][900c5bc7][ManagementConnection] New connection established.
+[2021-03-10 03:35:14.406] [remoteagent] [info] [127.0.0.1][edf9f241][ExtensionHostConnection] New connection established.
+[2021-03-10 03:35:14.409] [remoteagent] [info] [127.0.0.1][edf9f241][ExtensionHostConnection] <29438> Launched Extension Host Process.
+[2021-03-10 03:35:14.434] [remoteagent] [info] Terminal layout retrieved: []
+[2021-03-10 03:35:22.569] [remoteagent] [info] [127.0.0.1][900c5bc7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-10 03:35:23.589] [remoteagent] [info] [127.0.0.1][edf9f241][ExtensionHostConnection] <29438> Extension Host Process exited with code: 0, signal: null.
+[2021-03-10 03:36:30.360] [remoteagent] [info] [127.0.0.1][decd773e][ExtensionHostConnection] <28425> Extension Host Process exited with code: 0, signal: null.
+[2021-03-10 03:44:38.748] [remoteagent] [info] [127.0.0.1][9ec7ec86][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2021-03-10 03:44:39.803] [remoteagent] [info] [127.0.0.1][6628ff6b][ExtensionHostConnection] <28818> Extension Host Process exited with code: 0, signal: null.
+[2021-03-10 03:44:39.803] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2021-03-10 03:49:39.804] [remoteagent] [info] Last EH closed, shutting down

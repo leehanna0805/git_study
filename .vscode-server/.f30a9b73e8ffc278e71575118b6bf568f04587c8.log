@@ -1,0 +1,32 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 34855
+
+[05:59:14] Extension host agent started.
+[05:59:15] [127.0.0.1][6daed8aa][ManagementConnection] New connection established.
+[05:59:15] [127.0.0.1][740c1531][ExtensionHostConnection] New connection established.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+mesg: ttyname failed: Inappropriate ioctl for device
+[05:59:15] [127.0.0.1][740c1531][ExtensionHostConnection] <7034> Launched Extension Host Process.
+[06:06:16] [127.0.0.1][6daed8aa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:06:17] [127.0.0.1][740c1531][ExtensionHostConnection] <7034> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[06:06:17] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:06:29] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:06:29] Cancelling previous shutdown timeout
+[06:06:30] [127.0.0.1][48e7f5e1][ManagementConnection] New connection established.
+[06:06:30] [127.0.0.1][2f6e50da][ExtensionHostConnection] New connection established.
+[06:06:30] [127.0.0.1][2f6e50da][ExtensionHostConnection] <8246> Launched Extension Host Process.
+[06:06:30] Terminal layout retrieved: []
+New EH opened, aborting shutdown
+[06:11:29] New EH opened, aborting shutdown

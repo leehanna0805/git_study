@@ -1,0 +1,93 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/moviesajo/moviesajo-1
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/moviesajo/moviesajo-1/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/__init__.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :moviesajo/asgi.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/asgi.py
+> git cat-file -s baad9a9db4b4a8228c9a195c578eca337d394143
+> git show --textconv :moviesajo/settings.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/settings.py
+> git cat-file -s 11fe4fae5809486e7f724ff08bbdeccb36566bb0
+> git show --textconv :moviesajo/settings.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/settings.py
+> git cat-file -s 11fe4fae5809486e7f724ff08bbdeccb36566bb0
+> git show --textconv :moviesajo/settings.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/settings.py
+> git cat-file -s 11fe4fae5809486e7f724ff08bbdeccb36566bb0
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/moviesajo/moviesajo-1/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo-1/moviesajo/settings.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/moviesajo/moviesajo-1/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/moviesajo/moviesajo-1/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git show --textconv :moviesajo/urls.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/urls.py
+> git cat-file -s 993239216501bc60753400f0eb91b905f65b5ea0
+> git show --textconv :moviesajo/settings.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/settings.py
+> git cat-file -s 11fe4fae5809486e7f724ff08bbdeccb36566bb0
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/__init__.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/.gitignore
+> git cat-file -s b0cca1d16f83e0ed9a659c63cb54c4c5c0077913
+> git show --textconv :db.sqlite3
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/db.sqlite3
+> git show --textconv :manage.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/manage.py
+> git cat-file -s 9ef3a0a9165451d16ed20a4fcb29ffd5d9459aa2
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/.gitignore
+> git cat-file -s b0cca1d16f83e0ed9a659c63cb54c4c5c0077913
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo-1/.gitignore
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo-1/moviesajo/__pycache__/__init__.cpython-36.pyc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo-1/moviesajo/__pycache__/settings.cpython-36.pyc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo-1/moviesajo/__pycache__/urls.cpython-36.pyc
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo-1/moviesajo/__pycache__/wsgi.cpython-36.pyc
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/__init__.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :moviesajo/asgi.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/asgi.py
+> git cat-file -s baad9a9db4b4a8228c9a195c578eca337d394143
+> git show --textconv :moviesajo/settings.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/settings.py
+> git cat-file -s 11fe4fae5809486e7f724ff08bbdeccb36566bb0
+> git show --textconv :moviesajo/urls.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/urls.py
+> git cat-file -s 993239216501bc60753400f0eb91b905f65b5ea0
+> git show --textconv :moviesajo/wsgi.py
+> git ls-files --stage -- /root/moviesajo/moviesajo-1/moviesajo/wsgi.py
+> git cat-file -s 287fc5b820050abea675cf357ad1237c2e112632

@@ -1,0 +1,69 @@
+User belongs to experiment group 'pythonaa'
+User belongs to experiment group 'pythonNotDisplayLinterPrompt'
+User belongs to experiment group 'pythonSendEntireLineToREPL'
+User belongs to experiment group 'ShowPlayIcon - start'
+User belongs to experiment group 'ShowExtensionSurveyPrompt - enabled'
+User belongs to experiment group 'DebugAdapterFactory - experiment'
+User belongs to experiment group 'PtvsdWheels37 - experiment'
+User belongs to experiment group 'UseTerminalToGetActivatedEnvVars - control'
+User belongs to experiment group 'LocalZMQKernel - experiment'
+User belongs to experiment group 'CollectLSRequestTiming - control'
+User belongs to experiment group 'CollectNodeLSRequestTiming - experiment'
+User belongs to experiment group 'EnableIPyWidgets - experiment'
+User belongs to experiment group 'DeprecatePythonPath - experiment'
+User belongs to experiment group 'RunByLine - experiment'
+User belongs to experiment group 'CustomEditorSupport - control'
+> conda --version
+> pyenv root
+> python3.7 ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3.6 ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python3 ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python2 ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> conda info --json
+> python ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> python ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> pyenv root
+> pyenv root
+Error 2021-03-08 16:04:39: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2232372e39362e3133342e37222c2275736572223a22726f6f74227d/root/.config/Code/User/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2232372e39362e3133342e37222c2275736572223a22726f6f74227d/root/.config/Code/User/settings.json')
+	at _handleError (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:151863)
+	at async y.readText (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:9:298390)
+	at async p.doesFileNeedToBeFixed (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:481011)
+	at async /root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:480138
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:480084)
+	at async p.updateTestSettings (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:479711)] {
+  code: 'FileNotFound'
+}
+Error 2021-03-08 16:04:39: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2232372e39362e3133342e37222c2275736572223a22726f6f74227d/root/moviesajo/.vscode/settings.json' (Error: Unable to resolve non-existing file 'vscode-remote://ssh-remote+7b22686f73744e616d65223a2232372e39362e3133342e37222c2275736572223a22726f6f74227d/root/moviesajo/.vscode/settings.json')
+	at _handleError (/root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/out/vs/server/remoteExtensionHostProcess.js:87:151863)
+	at async y.readText (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:9:298390)
+	at async p.doesFileNeedToBeFixed (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:481011)
+	at async /root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:480138
+	at async Promise.all (index 1)
+	at async p.getFilesToBeFixed (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:480084)
+	at async p.updateTestSettings (/root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension.js:59:479711)] {
+  code: 'FileNotFound'
+}
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Starting Jedi Python language engine.
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+> D:\Python\Python3.9\python.exe ~/.vscode-server/extensions/ms-python.python-2021.2.625869727/pythonFiles/pyvsc-run-isolated.py -c "import sys;print(sys.executable)"
+Error 2021-03-08 16:04:40: Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.
+Diagnostic Code: InvalidPythonInterpreterDiagnostic, Message: No Python interpreter is selected. You need to select a Python interpreter to enable features such as IntelliSense, linting, and debugging.

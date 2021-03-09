@@ -1,0 +1,212 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/moviesajo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :moviesajo/wsgi.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/wsgi.py
+> git cat-file -s 287fc5b820050abea675cf357ad1237c2e112632
+> git show --textconv :moviesajo/urls.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/urls.py
+> git cat-file -s 993239216501bc60753400f0eb91b905f65b5ea0
+> git show --textconv :moviesajo/settings.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/settings.py
+> git cat-file -s 11fe4fae5809486e7f724ff08bbdeccb36566bb0
+> git show --textconv :moviesajo/asgi.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/asgi.py
+> git cat-file -s baad9a9db4b4a8228c9a195c578eca337d394143
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :moviesajo/urls.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/urls.py
+> git cat-file -s 993239216501bc60753400f0eb91b905f65b5ea0
+> git show --textconv :manage.py
+> git ls-files --stage -- /root/moviesajo/manage.py
+> git cat-file -s 9ef3a0a9165451d16ed20a4fcb29ffd5d9459aa2
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /root/moviesajo/moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s c3b21819d3e823737fa85e199034a92aa25351f6
+> git show --textconv :moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+From https://github.com/moviesajo/moviesajo
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+remote: Permission to moviesajo/moviesajo.git denied to leehanna0805.
+fatal: unable to access 'https://github.com/moviesajo/moviesajo.git/': The requested URL returned error: 403
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/moviesajo/moviesajo
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+remote: Permission to moviesajo/moviesajo.git denied to leehanna0805.
+fatal: unable to access 'https://github.com/moviesajo/moviesajo.git/': The requested URL returned error: 403
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/moviesajo/moviesajo
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+remote: Permission to moviesajo/moviesajo.git denied to leehanna0805.
+fatal: unable to access 'https://github.com/moviesajo/moviesajo.git/': The requested URL returned error: 403
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git log --oneline --cherry master...master@{upstream} --
+> git pull --tags origin master
+From https://github.com/moviesajo/moviesajo
+ * branch            master     -> FETCH_HEAD
+> git push origin master:master
+remote: Permission to moviesajo/moviesajo.git denied to leehanna0805.
+fatal: unable to access 'https://github.com/moviesajo/moviesajo.git/': The requested URL returned error: 403
+> git ls-tree -l HEAD -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv HEAD:moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s c3b21819d3e823737fa85e199034a92aa25351f6
+> git rev-list --count ff8d5dd8e596cd90185cb3d00c80f1699bf1b778.. -- /root/moviesajo/moviesajo/__init__.py
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n3 -- /root/moviesajo/moviesajo/__init__.py
+> git show --textconv :moviesajo/asgi.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/asgi.py
+> git cat-file -s baad9a9db4b4a8228c9a195c578eca337d394143
+> git check-ignore -v -z --stdin
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s c3b21819d3e823737fa85e199034a92aa25351f6
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n27 -- /root/moviesajo/moviesajo/__init__.py
+> git check-ignore -v -z --stdin
+> git show -s --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z HEAD
+> git reset --soft HEAD~
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s c3b21819d3e823737fa85e199034a92aa25351f6
+> git show --textconv :moviesajo/__init__.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

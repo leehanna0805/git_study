@@ -1,0 +1,28 @@
+[2021-03-08 15:25:36.566] [exthost] [info] extension host started
+[2021-03-08 15:25:36.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-03-08 15:25:36.614] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/debug-auto-launch/dist/extension
+[2021-03-08 15:25:36.621] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-08 15:25:36.621] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/git/dist/main
+[2021-03-08 15:25:36.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-03-08 15:25:36.780] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/github/dist/extension.js
+[2021-03-08 15:25:36.822] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-03-08 15:25:36.822] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/emmet/dist/node/emmetNodeMain
+[2021-03-08 15:25:36.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-03-08 15:25:36.837] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/merge-conflict/dist/mergeConflictMain
+[2021-03-08 15:25:36.841] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-03-08 15:25:36.841] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/testing-editor-contributions/dist/extension.js
+[2021-03-08 15:25:36.842] [exthost] [info] eager extensions activated
+[2021-03-08 15:25:36.844] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-03-08 15:25:36.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/ms-vscode.js-debug/src/extension.js
+[2021-03-08 16:04:24.809] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"workspaceContainsTimeout:mspythonconfig.json,pyproject.toml"}
+[2021-03-08 16:04:24.809] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/extensions/ms-toolsai.jupyter-2021.3.619093157/out/client/extension
+[2021-03-08 16:04:34.045] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-08 16:04:34.046] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/configuration-editing/dist/configurationEditingMain
+[2021-03-08 16:04:34.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-08 16:04:34.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-03-08 16:04:35.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2021-03-08 16:04:35.199] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/bin/f30a9b73e8ffc278e71575118b6bf568f04587c8/extensions/typescript-language-features/dist/extension
+[2021-03-08 16:04:36.231] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python {"startup":false,"extensionId":{"value":"ms-python.python","_lower":"ms-python.python"},"activationEvent":"workspaceContainsTimeout:mspythonconfig.json,pyproject.toml"}
+[2021-03-08 16:04:36.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode-server/extensions/ms-python.python-2021.2.625869727/out/client/extension
+[2021-03-09 01:23:50.660] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-03-09 01:23:51.686] [exthost] [info] exiting with code 0

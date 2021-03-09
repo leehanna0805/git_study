@@ -1,0 +1,18 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --git-dir
+Open repository: /root/moviesajo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(upstream:track)%00%(objectname) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :.gitignore
+> git ls-files --stage -- /root/moviesajo/.gitignore
+> git cat-file -s b0cca1d16f83e0ed9a659c63cb54c4c5c0077913
+> git check-ignore -v -z --stdin
+> git show --textconv :moviesajo/__init__.py
+> git ls-files --stage -- /root/moviesajo/moviesajo/__init__.py
+> git cat-file -s c3b21819d3e823737fa85e199034a92aa25351f6
